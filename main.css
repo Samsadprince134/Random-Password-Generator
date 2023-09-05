@@ -24,9 +24,11 @@
     --dk-text: hsl(198, 20%, 13%);
 }
 .info{
-    display: flex;
+  display: flex;
     justify-content: center;
-    font-size: smaller;
+    align-items: center;
+    font-size: large;
+    height: 30px;
 }
 .wrapper {
     width: 100vw;
